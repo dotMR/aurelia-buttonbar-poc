@@ -1,0 +1,6 @@
+<template>
+    <require from="resources/elements/model-configured/mc-toggle-button/mc-toggle-button"></require>
+    <div style="padding-top: 7px">
+        <mc-toggle-button repeat.for="icon of icons" icon-name="${icon.iconName}" tooltip-key="${icon.tooltipKey}" animal="${icon.animal}"></mc-toggle-button>
+    </div>
+</template>
