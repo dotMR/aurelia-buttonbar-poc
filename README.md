@@ -6,3 +6,7 @@ Explore the different possibilities for creating a "button bar" control in Aurel
 
 ## Real World Example
 Think of a toolbar for a Rich Text Editor where there are "bold", "italic", "underline", "strikethrough" buttons that largely look and function the same.
+
+## Usage
+
+Using the Aurelia CLI `au run -watch`
